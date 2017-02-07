@@ -1,0 +1,22 @@
+h1{
+  color: pink;
+  font-size: 60px;
+  font-family: monospace;
+  font-style: italic;
+}
+
+p{
+  color: #bfb14a;
+  font-family: fantasy;
+  font-style: bold;
+
+}
+
+body{
+  text-align: center;
+  background-color: #b2feff;
+}
+
+ol {
+  text-align: left;
+}
